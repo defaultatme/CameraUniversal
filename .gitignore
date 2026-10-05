@@ -1,0 +1,7 @@
+*.AppImage
+*.exe
+AppImageFiles/
+build/
+dist/
+__pycache__/
+*.spec
